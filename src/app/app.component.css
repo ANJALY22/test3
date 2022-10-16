@@ -1,0 +1,25 @@
+.a{
+    background-color: rgb(204, 162, 168);
+    float: right;
+    height:950px;
+    width:33.3%
+    
+  }
+.b{
+    background-color: rgb(209, 252, 238);
+    float: left;
+    height: 950px;
+    width:33.3%;
+}
+.c{
+    background-color: rgb(245, 195, 195);
+    float: left;
+    height: 950px;
+    width:33.3%;
+    overflow: hidden;
+}
+.d{
+    overflow: hidden;
+    height: 900px;
+    background-color: aliceblue;
+}

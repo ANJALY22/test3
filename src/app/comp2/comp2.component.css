@@ -1,0 +1,25 @@
+.a{
+    margin-left: 1100px;
+    margin-top: 75px;
+    border-radius:20cm;
+    width:75%;
+    height: 550px;
+    float: right;
+}
+.b{
+    border-radius: 15cm;
+    float: right;
+    margin: 0px -50px 0px 0px;
+    
+}
+.e{
+    margin-top: 400px;
+}
+.c{
+    margin-top: 300px;
+    float: bottom;
+    font-style: inherit;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: left;
+    color: coral;
+}
